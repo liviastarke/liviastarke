@@ -1,16 +1,18 @@
-## Hi there 👋
+## "If I had more time, I would have written ~~a shorter letter~~ ➡️ shorter code"
 
-<!--
-**liviastarke/liviastarke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My learning path
 
-Here are some ideas to get you started:
+Goal: make clean, efficient collaborative code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always trying to improve READMEs and commit messages, learning from my last project's mistakes and wondering why the act of planning doesn't ever go as intended... My latest efforts have been directed towards learning to refactor code and to write proper documentation, with various degrees of success/failure.
+
+You can help me learn by opening issues and pull requests. Please contribute!
+
+##### "Languages", in chronological order:
+
+- [Scratch](https://scratch.mit.edu/)
+- Python
+- LaTeX
+- C
+- UML
+- Java
